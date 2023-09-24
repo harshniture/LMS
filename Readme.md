@@ -5,9 +5,9 @@
 HTML, CSS, JavaScript, Firebase, Firestore
 ---
 # How to check
-Step 1> clone the Repo or download Zip file
-Step 2> open index.html
-Step 3> for admin use 
+Step 1> clone the Repo or download Zip file <br>
+Step 2> open index.html<br>
+Step 3> for admin use<br>
 Credentials for Admin 
 - Username : admin@gmail.com
 - Password : admin@123
